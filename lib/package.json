@@ -1,0 +1,24 @@
+{
+  "name": "@txo/phone-number",
+  "version": "1.0.0",
+  "description": "Technology Studio - Phone number",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/technology-studio/phone-number.git"
+  },
+  "author": {
+    "name": "Technology Studio",
+    "email": "npm@technologystudio.sk",
+    "url": "https://github.com/technology-studio/"
+  },
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+  }
+}
