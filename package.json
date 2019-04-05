@@ -1,6 +1,5 @@
 {
   "name": "@txo/phone-number",
-  "version": "1.0.0",
   "description": "Technology Studio - Phone number",
   "main": "index.js",
   "repository": {
