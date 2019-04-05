@@ -8,6 +8,7 @@
 .*/node_modules/.*/node_modules/fbjs/.*
 <PROJECT_ROOT>/node_modules/@txo.*/node_modules/.*
 <PROJECT_ROOT>/node_modules/\([^@]\|@\([^t]\|t\([^x]\|x\([^o]\|$\)\|$\)\|$\)\|$\).*$
+<PROJECT_ROOT>/lib/node_modules/.*
 
 ; Ignore duplicate module providers
 ; For RN Apps installed via npm, "Libraries" folder is inside
