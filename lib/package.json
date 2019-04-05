@@ -1,6 +1,6 @@
 {
   "name": "@txo/phone-number",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Technology Studio - Phone number",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -18,6 +18,8 @@
   "scripts": {
   },
   "dependencies": {
+    "@txo/functional": "^1.0.1",
+    "awesome-phonenumber": "^2.4.2"
   },
   "peerDependencies": {
   }
